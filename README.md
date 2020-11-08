@@ -4,4 +4,4 @@
 Course : EE 782 - Advanced Machine Learning
 Assignment 2 
 
-Indian Institute of Technology
+Indian Institute of Technology Bombay
